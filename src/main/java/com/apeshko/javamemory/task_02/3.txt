@@ -1,0 +1,1 @@
+java -Xms512m -Xmx512m -XX:NewRatio=0.333 -XX:SurvivorRatio=2 -Xlog:gc+heap=info

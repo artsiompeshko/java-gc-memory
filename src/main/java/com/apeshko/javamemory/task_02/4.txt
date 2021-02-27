@@ -1,0 +1,1 @@
+java -Xms768m -Xmx768m -XX:NewRatio=0.2 -XX:SurvivorRatio=3 -Xlog:gc+heap=info
